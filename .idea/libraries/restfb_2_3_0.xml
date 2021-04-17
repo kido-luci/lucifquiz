@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="restfb-2.3.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../AccessFacebook-lib/lib/restfb-2.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
